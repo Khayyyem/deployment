@@ -45,7 +45,7 @@ const renderContent = {
        // btnText="More about me"
        // />
       */ <InfoBox
-       text  ="Hi, I’m Khayyam, a passionate Software Engineering student with hands-on experience in developing machine learning models and solving complex problems"
+       text  ="Hi, I’m Khayyam, a Software Engineering student with hands-on experience in developing machine learning models and solving complex problems"
        link="/about"
        btnText="More about me"
        />
