@@ -20,7 +20,7 @@ const renderContent = {
     ),
     2: (
         <InfoBox
-        text="Looking for a Software Developer? Feel Free to Contact Me! (Also, I Hope You Liked My Portfolio Website)"
+        text="Looking for a Software Developer? Feel Free to Contact Me! (Also, I Hope You Liked My Portfolio Website:)"
         link="/contact"
         btnText="Contact me"
         />
