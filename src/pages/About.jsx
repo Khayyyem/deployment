@@ -17,7 +17,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          I'm a Software Engineering student based in East Pennsylvania, specializing
+        I'm a Software Engineering student based on the East Coast, specializing
           my skills primarily in Artifical Intelligence and Machine Learning while
           also learning front-end languages, back-end languages, and frameworks
           through hands-on learning along with building applications and projects.
