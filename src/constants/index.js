@@ -1,5 +1,6 @@
 import { meta, shopify, starbucks, tesla, esu} from "../assets/images";
 import {
+    python,
     car,
     contact,
     css,
@@ -29,6 +30,11 @@ import {
 } from "../assets/icons";
 
 export const skills = [
+    {
+        imageUrl: python,
+        name: "Python",
+        type: "Frontend",
+    },
     {
         imageUrl: css,
         name: "CSS",

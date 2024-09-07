@@ -28,7 +28,9 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import cpp from './cpp.svg'
 import gemini from './gemini.png'
+import python from './python.png'
 export {
+    python,
     css,
     cpp,
     express,
