@@ -18,7 +18,7 @@ const Projects = () => {
       <p className='text-slate-500 mt-2 leading-relaxed'>
         As a student, I'm working on projects that will help me learn everything about my preferred focus on Artificial Intelligence
         and Machine Learning. I have also been working on front-end and back-end development
-        projects aswell, this portfolio website being one of them. I have a few more projects to complete this summer that will be available below soon!
+        projects, this portfolio website being one of them. I have a few more projects to complete this summer that will be available below soon!
       </p>
 
       <div className='flex flex-wrap my-20 gap-16'>
