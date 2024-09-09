@@ -140,8 +140,8 @@ const Contact = () => {
             <Suspense fallback = {<Loader/>}>
               <Flock
               currentAnimation={currentAnimation}
-              position = {[0.4,-0.2, 3.4]} //{[0.5,0.3, 3.5]}
-              rotation = {[85, 12, 1]} //{[65, 12, 0]}
+              position = {[0.5,0.3, 3.5]} //{[0.5,0.3, 3.5]}
+              rotation = {[65, 12, 0]} //{[65, 12, 0]}
               scale = {[1, 1, 1]}
                />
             </Suspense>
