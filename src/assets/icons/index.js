@@ -29,7 +29,11 @@ import soundoff from './soundoff.png'
 import cpp from './cpp.svg'
 import gemini from './gemini.png'
 import python from './python.png'
+import Tensorflow from './Tensorflow.png'
+import Keras from './keras.png'
 export {
+    Keras,
+    Tensorflow,
     python,
     css,
     cpp,

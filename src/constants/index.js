@@ -1,5 +1,7 @@
 import { meta, shopify, starbucks, tesla, esu} from "../assets/images";
 import {
+    Keras,
+    Tensorflow,
     python,
     car,
     contact,
@@ -33,12 +35,17 @@ export const skills = [
     {
         imageUrl: python,
         name: "Python",
-        type: "Frontend",
+        type: "Backend",
     },
     {
-        imageUrl: css,
-        name: "CSS",
-        type: "Frontend",
+        imageUrl: Tensorflow,
+        name: "Tensorflow",
+        type: "Backend",
+    },
+    {
+        imageUrl: Keras,
+        name: "Keras",
+        type: "Backend",
     },
     /*{
         imageUrl: express,
@@ -59,11 +66,6 @@ export const skills = [
         imageUrl: github,
         name: "GitHub",
         type: "Version Control",
-    },
-    {
-        imageUrl: html,
-        name: "HTML",
-        type: "Frontend",
     },
     {
         imageUrl: javascript,
@@ -119,7 +121,16 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
-    }*/
+    }*/{
+        imageUrl: css,
+        name: "CSS",
+        type: "Frontend",
+    },
+        {
+            imageUrl: html,
+            name: "HTML",
+            type: "Frontend",
+        },
 ];
 
 
