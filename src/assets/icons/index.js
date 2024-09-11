@@ -31,7 +31,9 @@ import gemini from './gemini.png'
 import python from './python.png'
 import Tensorflow from './Tensorflow.png'
 import Keras from './keras.png'
+import java from './java.svg'
 export {
+    java,
     Keras,
     Tensorflow,
     python,

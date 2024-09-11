@@ -1,5 +1,6 @@
 import { meta, shopify, starbucks, tesla, esu} from "../assets/images";
 import {
+    java,
     Keras,
     Tensorflow,
     python,
@@ -55,6 +56,11 @@ export const skills = [
     {
         imageUrl: cpp,
         name: 'CPP',
+        type: 'Backend'
+    },
+    {
+        imageUrl: java,
+        name: 'java',
         type: 'Backend'
     },
     {
