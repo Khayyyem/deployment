@@ -63,16 +63,7 @@ export const skills = [
         name: 'java',
         type: 'Backend'
     },
-    {
-        imageUrl: git,
-        name: "Git",
-        type: "Version Control",
-    },
-    {
-        imageUrl: github,
-        name: "GitHub",
-        type: "Version Control",
-    },
+   
     {
         imageUrl: javascript,
         name: "JavaScript",
@@ -127,7 +118,19 @@ export const skills = [
         imageUrl: typescript,
         name: "TypeScript",
         type: "Frontend",
-    }*/{
+    }*/
+        {
+            imageUrl: git,
+            name: "Git",
+            type: "Version Control",
+        },
+        
+    {
+        imageUrl: github,
+        name: "GitHub",
+        type: "Version Control",
+    },
+   {
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
