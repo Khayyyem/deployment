@@ -130,7 +130,7 @@ export const skills = [
         name: "GitHub",
         type: "Version Control",
     },
-   {
+ /*  {
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
@@ -139,7 +139,7 @@ export const skills = [
             imageUrl: html,
             name: "HTML",
             type: "Frontend",
-        },
+        },*/
 ];
 
 
@@ -245,14 +245,14 @@ export const projects = [
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
         link: 'https://github.com/adrianhajdin/social_media_app',
-    },
+    },*/
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
+        name: 'Customer Churn Prediction Model',
+        description: 'Customer churn analysis on 10,000 records, identifying a 20.37% churn rate and building a model using multiple input variables to predict future customer departures.',
         link: 'https://github.com/adrianhajdin/projects_realestate',
-    }*/,
+    },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
