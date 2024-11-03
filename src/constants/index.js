@@ -251,7 +251,7 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'Customer Churn Prediction Model',
         description: 'Customer churn analysis on 10,000 records, identifying a 20.37% churn rate and building a model using multiple input variables to predict future customer departures.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        link: 'https://github.com/Khayyyem/Customer-Churn',
     },
     {
         iconUrl: summiz,
