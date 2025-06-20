@@ -184,28 +184,16 @@ export const experiences = [
         ],
     },*/
     {
-        title: "Course Assistant - Operating Systems",
-        company_name: "East Stroudsburg University of Pennsylvania",
-        icon: esu,
-        iconBg: '#fbc3bc', //"#a2d2ff",
-        date: "Jan 2025 - May 2025",
-        points: [
-            'Mentored students in CPSC 340 (Operating Systems) through weekly office hours and hands-on kernel development projects, directly improving their ability to implement complex OS components including process schedulers and memory management systems',
-            'Translated advanced OS concepts (multithreading, synchronization, file systems) into practical code, improving project completion rates and kernel performance metrics',
-
-        ],
-    },
-    {
-        title: "Research Assistant Intern",
-        company_name: "East Stroudsburg University of Pennsylvania",
+        title: "Summer Intern",
+        company_name: "ESU",
         icon: esu,
         iconBg: '#fbc3bc', //"#a2d2ff",
         date: "May 2024 - August 2024",
         points: [
-            'Built a high-performance CNN model for MRI-based brain tumor detection using Keras, improving accuracy from 71% to 97% through advanced transfer learning and fine-tuning optimization',
-            'Implemented advanced techniques including convolutional layers, dropout, and data augmentation to enhance model robustness and prevent overfitting',
-            'Demonstrated the models effectiveness in medical diagnostics, delivering high performance and reliable results in distinguishing tumor from non-tumor images',
-           // 'Achieved high performance and reliable results in brain tumor detection, demonstrating the model’s effectiveness in medical diagnostics.'
+            'Engineered a CNN for precise classification of MRI scans, distinguishing between tumor and non-tumor images.',
+            'Leveraged Keras to implement convolutional layers, dropout for overfitting prevention, and data augmentation to improve model robustness.',
+            'Enhanced model accuracy through transfer learning, fine-tuning pre-trained networks for medical imaging tasks.',
+            'Achieved high performance and reliable results in brain tumor detection, demonstrating the model’s effectiveness in medical diagnostics.'
 
         ],
     },
