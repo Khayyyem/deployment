@@ -27,7 +27,7 @@ const renderContent = {
     ),
     3: (
         <InfoBox
-        text="I am a Junior in college. I recently Interned at my University over the Summer while
+        text="I am a Senior in college. I recently tutored at my University over the Semester while
         also working on a few Personal Projects"
         link="/projects"
         btnText="Visit Portfolio"
