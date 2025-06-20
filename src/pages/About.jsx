@@ -47,7 +47,7 @@ const About = () => {
           <h3 className='subhead-text'>Work Experience</h3>
           <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        As a junior in college, I’m focused on expanding my expertise through coursework and hands-on projects, continually building my experience in the field.
+        As a senior in college, I’m focused on expanding my expertise through hands-on projects, and internship experience, continually building my experience in the field.
         </p>
       </div>
 
